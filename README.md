@@ -5,7 +5,7 @@ How to Run:
   You can run this code in jupyter notebook . directly pressing the run button . no need to do anything
 About the code:
   1.this program is a simple menu driven program . where you  can choose from the menu and the program will make the changes accordingly and store it in the json file
-  2. you can choose from the following functions:        
+  2. you can choose from the following functions:                                
         1.addPassword : this functions add new element the the directy and sorores it in the json file.
         2.displayAll: this function displays all the entryes in the directory.
         3.displayOne : displays only the required password for the username.
