@@ -14,4 +14,4 @@ About the code:
         6.generate_password : generates a random password.
         7.Exit : Exits the program.              
 3. data is stored in the json file 
-4. unfortunately  i did not had any knowledge of encrytion of data. so i was not able to encrypt the passwords. rest i have given my 100% form my side.
+4. unfortunately  i did not had any knowledge of encrytion of data. so i was not able to encrypt the passwords. 
